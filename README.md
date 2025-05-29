@@ -21,7 +21,7 @@ Este projeto tem como missão auxiliar o Senhor João, dono da rede **Alura Stor
   
 ---
 
-# 🔍 Visão Geral
+## 🔍 Visão Geral
 
 Os dados analisados abrangem as seguintes colunas por loja:
 
@@ -116,16 +116,17 @@ Utilizando a biblioteca **Pandas** para tratamento de dados e **Matplotlib** par
 
 ---
 
-# 🧠 Tecnologias Utilizadas
+## 🧠 Tecnologias Utilizadas
 
    - Python
    - Pandas
    - Matplotlib
    - Google Colab
+   - IA
 
 ---
 
-# ☁️ Como Executar no Google Colab
+## ☁️ Como Executar no Google Colab
 
 Você pode rodar este projeto diretamente no navegador usando o Google Colab, sem precisar instalar nada no seu computador.
 
