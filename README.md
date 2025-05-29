@@ -15,6 +15,9 @@ Este projeto tem como missão auxiliar o Senhor João, dono da rede **Alura Stor
 - 📈 Principais Resultados
 - ✅ Resumo das Análises
 - 🧠 Conclusões
+- 🧠 Tecnologias Utilizadas
+- ☁️ Como Executar no Google Colab
+- 📫 Contato
   
 ---
 
@@ -30,13 +33,13 @@ Cada loja possui um arquivo .csv com seu histórico de vendas.
 
 ## 🔍 O que foi analisado
 
-Utilizando a biblioteca **Pandas** para tratamento de dados e **Matplotlib** para visualizações, exploramos as seguintes métricas:
+Utilizando a biblioteca **Pandas** para tratamento de dados e **Matplotlib** para visualizações, foram exploradas as seguintes métricas:
 
 - **💰 Faturamento total** de cada loja
-- **📦 Vendas por categoria de produto**
-- **⭐ Média de avaliação dos clientes**
-- **📈 Produtos mais e menos vendidos**
-- **🚚 Frete médio por loja**
+- **📦 Vendas por categoria de produto** por loja
+- **⭐ Média de avaliação dos clientes** por loja
+- **📈 Produtos mais vendidos e produtos menos vendidos** por loja
+- **🚚 Frete médio** por loja
 
 ---
 
@@ -110,3 +113,42 @@ Utilizando a biblioteca **Pandas** para tratamento de dados e **Matplotlib** par
 
 ### 4. Avaliação apenas mediana
   - A avaliação dos clientes é estável, mas não compensa os pontos negativos em faturamento e desempenho de produto.
+
+---
+
+# 🧠 Tecnologias Utilizadas
+
+   - Python
+   - Pandas
+   - Matplotlib
+   - Google Colab
+
+---
+
+# ☁️ Como Executar no Google Colab
+
+Você pode rodar este projeto diretamente no navegador usando o Google Colab, sem precisar instalar nada no seu computador.
+
+**Passos:**
+**1. Acesse o Google Colab:**
+
+  - [Clique aqui para acessar]https://colab.research.google.com/
+
+**2. Abra o notebook do projeto:**
+  - Clique em **"Arquivo"** > **"Abrir notebook"**
+  - Vá até a aba **"Upload"** e envie o arquivo **AluraStoreBr_completo.ipynb**
+
+**3.Execute todas as células do notebook:**
+  - Vá em **"Ambiente de Execução"** > **"Executar tudo"** para rodar o notebook completo.
+
+**5. Pronto!**
+  Os gráficos e análises serão gerados automaticamente.
+
+---
+
+# 📫 Contato
+Dúvidas ou sugestões? Entre em contato:
+
+ 📧 Email: mequiasjunior@gmail.com
+
+ 💼 LinkedIn: [Mequias Júnior](https://www.linkedin.com/in/mequiasjunior/)
