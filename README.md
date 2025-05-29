@@ -4,7 +4,7 @@
 
 ## 📌 Objetivo
 
-Este projeto tem como missão auxiliar o Senhor João, dono da rede **Alura Store**, a decidir **qual das suas quatro lojas vender** para iniciar um novo empreendimento. Com base em dados reais de vendas, avaliações, frete e localização, realizamos uma análise detalhada e visual dos dados para tomar a melhor decisão.
+Este projeto tem como missão auxiliar o Senhor João, dono da rede **Alura Store**, a decidir **qual das suas quatro lojas vender** para iniciar um novo empreendimento. Com base em dados reais de vendas, avaliações e frete, realizamos uma análise detalhada e visual dos dados para tomar a melhor decisão.
 
 ---
 
